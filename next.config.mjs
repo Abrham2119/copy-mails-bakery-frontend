@@ -1,3 +1,5 @@
+import { apiRewrites } from "./src/config/api-rewrites.ts";
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
@@ -8,6 +10,9 @@ const nextConfig = {
       { protocol: "https", hostname: "**.myshopify.com" },
       { protocol: "https", hostname: "cdn.shopify.com" },
     ],
+  },
+  async rewrites() {
+    return apiRewrites;
   },
 };
 
