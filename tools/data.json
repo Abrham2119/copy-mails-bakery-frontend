@@ -1,0 +1,626 @@
+{
+  "bestSelling": {
+    "heading": {
+      "sub": "For Any Party",
+      "main": "Best selling Products"
+    },
+    "products": [
+      {
+        "title": "Celebration Cake",
+        "image": "/images/asset-3d8a2d33590c.jpg",
+        "hoverImage": "/images/asset-c545fa2075f2.jpg",
+        "price": "$469.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      },
+      {
+        "title": "Party Celebration Cake",
+        "image": "/images/asset-776ba5345387.jpg",
+        "hoverImage": "/images/asset-56d75bef3ac0.jpg",
+        "price": "$300.00",
+        "salePrice": "$375.00",
+        "wasPrice": null,
+        "onSale": true
+      },
+      {
+        "title": "Heart To Heart Cake",
+        "image": "/images/asset-518506d57ee1.jpg",
+        "hoverImage": "/images/asset-74da24f0917c.jpg",
+        "price": "$300.00",
+        "salePrice": "$375.00",
+        "wasPrice": null,
+        "onSale": true
+      },
+      {
+        "title": "Birthday Giant Cup Cake",
+        "image": "/images/asset-c68642731929.jpg",
+        "hoverImage": "/images/asset-fb70b43d48b8.jpg",
+        "price": "$489.00",
+        "salePrice": "$500.00",
+        "wasPrice": null,
+        "onSale": true
+      },
+      {
+        "title": "Angel Food Cake",
+        "image": "/images/asset-befa4613cddf.jpg",
+        "hoverImage": "/images/asset-74da24f0917c.jpg",
+        "price": "$369.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      },
+      {
+        "title": "Huggable Kids Gift",
+        "image": "/images/asset-89202cd618b4.jpg",
+        "hoverImage": "/images/asset-89202cd618b4.jpg",
+        "price": "$300.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      },
+      {
+        "title": "Chocolate Cake",
+        "image": "/images/asset-7a76fee92213.jpg",
+        "hoverImage": "/images/asset-1f06c1c5c4f5.jpg",
+        "price": "$180.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      },
+      {
+        "title": "Children's Cup Cake",
+        "image": "/images/asset-4b5cd6fa46ee.jpg",
+        "hoverImage": "/images/asset-db058456b35b.jpg",
+        "price": "$300.00",
+        "salePrice": "$405.00",
+        "wasPrice": null,
+        "onSale": true
+      },
+      {
+        "title": "A World Of Cup Cake",
+        "image": "/images/asset-2559e1705a38.jpg",
+        "hoverImage": "/images/asset-2559e1705a38.jpg",
+        "price": "$300.00",
+        "salePrice": "$351.00",
+        "wasPrice": null,
+        "onSale": true
+      },
+      {
+        "title": "Banana Snack Cake",
+        "image": "/images/asset-a725e40bb397.jpg",
+        "hoverImage": "/images/asset-bcf7cfd16be9.jpg",
+        "price": "$212.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      },
+      {
+        "title": "Chocolate Cup Cake",
+        "image": "/images/asset-d9631b449f79.jpg",
+        "hoverImage": "/images/asset-d9631b449f79.jpg",
+        "price": "$289.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      },
+      {
+        "title": "Love Romantic Cake",
+        "image": "/images/asset-66a73f02717e.jpg",
+        "hoverImage": "/images/asset-66a73f02717e.jpg",
+        "price": "$300.00",
+        "salePrice": "$405.00",
+        "wasPrice": null,
+        "onSale": true
+      },
+      {
+        "title": "Chocolate Cup Cake (Copy)",
+        "image": "/images/asset-d9631b449f79.jpg",
+        "hoverImage": "/images/asset-d9631b449f79.jpg",
+        "price": "$289.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      }
+    ]
+  },
+  "deals": {
+    "heading": {
+      "sub": "For Any Celebration",
+      "main": "Nature Taste"
+    },
+    "products": [
+      {
+        "title": "Gourmet Cake",
+        "image": "/images/asset-9f56a5b635d0.jpg",
+        "hoverImage": "/images/asset-df9b993f0763.jpg",
+        "price": "$395.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      },
+      {
+        "title": "Linda Cake",
+        "image": "/images/asset-25ad605bef18.jpg",
+        "hoverImage": "/images/asset-f7e166617683.jpg",
+        "price": "$598.00",
+        "salePrice": "$600.00",
+        "wasPrice": null,
+        "onSale": true
+      },
+      {
+        "title": "Chocolate Cup Cake (Copy)",
+        "image": "/images/asset-a7dda5d029a3.jpg",
+        "hoverImage": "/images/asset-12ed8eb1408e.jpg",
+        "price": "$289.00",
+        "salePrice": null,
+        "wasPrice": null,
+        "onSale": false
+      }
+    ]
+  },
+  "tabHeading": {
+    "sub": "Prepare with Love & Care",
+    "main": "Latest Collection"
+  },
+  "tabs": [
+    {
+      "id": "dT_tab-1-vannila",
+      "label": "Vannila",
+      "products": [
+        {
+          "title": "Gift Cake",
+          "image": "/images/asset-b1b8c5f79a0d.jpg",
+          "hoverImage": "/images/asset-c53303a3af7b.jpg",
+          "price": "$300.00",
+          "salePrice": "$400.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Family Donald Cake",
+          "image": "/images/asset-a220be22e5e1.jpg",
+          "hoverImage": "/images/asset-56d75bef3ac0.jpg",
+          "price": "$529.00",
+          "salePrice": "$700.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Layer Cake",
+          "image": "/images/asset-32175727caa5.jpg",
+          "hoverImage": "/images/asset-c545fa2075f2.jpg",
+          "price": "$122.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Grace Sympathy Cake",
+          "image": "/images/asset-a5dd6db7a7db.jpg",
+          "hoverImage": "/images/asset-fb70b43d48b8.jpg",
+          "price": "$329.00",
+          "salePrice": "$400.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Fruit Cake",
+          "image": "/images/asset-3aa93e68276a.jpg",
+          "hoverImage": "/images/asset-c53303a3af7b.jpg",
+          "price": "$193.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Party Time Cake",
+          "image": "/images/asset-7f427f6d28ab.jpg",
+          "hoverImage": "/images/asset-e6854f9f0ca8.jpg",
+          "price": "$300.00",
+          "salePrice": "$351.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Giant Fortune Cup Cake",
+          "image": "/images/asset-4c18cf63b6f2.jpg",
+          "hoverImage": "/images/asset-4c18cf63b6f2.jpg",
+          "price": "$370.00",
+          "salePrice": "$400.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Giant Cup Cake",
+          "image": "/images/asset-25a3d344b8d8.jpg",
+          "hoverImage": "/images/asset-25a3d344b8d8.jpg",
+          "price": "$300.00",
+          "salePrice": "$405.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Ellen Cup Cake",
+          "image": "/images/asset-c77892484c77.jpg",
+          "hoverImage": "/images/asset-c77892484c77.jpg",
+          "price": "$528.00",
+          "salePrice": "$700.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Chocolate Cup Cake (Copy)",
+          "image": "/images/asset-d9631b449f79.jpg",
+          "hoverImage": "/images/asset-d9631b449f79.jpg",
+          "price": "$289.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        }
+      ]
+    },
+    {
+      "id": "dT_tab-2-strawberry",
+      "label": "Strawberry",
+      "products": [
+        {
+          "title": "Chocolate Cup Cake (Copy)",
+          "image": "/images/asset-d9631b449f79.jpg",
+          "hoverImage": "/images/asset-d9631b449f79.jpg",
+          "price": "$289.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Choco Cake",
+          "image": "/images/asset-9da6427556b0.jpg",
+          "hoverImage": "/images/asset-9da6427556b0.jpg",
+          "price": "$100.00",
+          "salePrice": "$117.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Grace Sympathy Cake",
+          "image": "/images/asset-a5dd6db7a7db.jpg",
+          "hoverImage": "/images/asset-fb70b43d48b8.jpg",
+          "price": "$329.00",
+          "salePrice": "$400.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Grieve Cake",
+          "image": "/images/asset-d2d33c1007de.jpg",
+          "hoverImage": "/images/asset-d2d33c1007de.jpg",
+          "price": "$438.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Gourmet Cake",
+          "image": "/images/asset-89202cd618b4.jpg",
+          "hoverImage": "/images/asset-89202cd618b4.jpg",
+          "price": "$395.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Happily Ever Cake",
+          "image": "/images/asset-26ba5c05d887.jpg",
+          "hoverImage": "/images/asset-26ba5c05d887.jpg",
+          "price": "$489.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Heart To Heart Cake",
+          "image": "/images/asset-518506d57ee1.jpg",
+          "hoverImage": "/images/asset-74da24f0917c.jpg",
+          "price": "$300.00",
+          "salePrice": "$375.00",
+          "wasPrice": null,
+          "onSale": true
+        }
+      ]
+    },
+    {
+      "id": "dT_tab-3-chocolate",
+      "label": "Chocolate",
+      "products": [
+        {
+          "title": "Chocolate Cup Cake (Copy)",
+          "image": "/images/asset-d9631b449f79.jpg",
+          "hoverImage": "/images/asset-d9631b449f79.jpg",
+          "price": "$289.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Layer Cake",
+          "image": "/images/asset-32175727caa5.jpg",
+          "hoverImage": "/images/asset-c545fa2075f2.jpg",
+          "price": "$122.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Lasting Impression Cake",
+          "image": "/images/asset-92fab079cffb.jpg",
+          "hoverImage": "/images/asset-92fab079cffb.jpg",
+          "price": "$300.00",
+          "salePrice": "$351.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Heartfelt Gift Basket",
+          "image": "/images/asset-55098abdb881.jpg",
+          "hoverImage": "/images/asset-55098abdb881.jpg",
+          "price": "$298.00",
+          "salePrice": "$700.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Huggable Kids Gift",
+          "image": "/images/asset-89202cd618b4.jpg",
+          "hoverImage": "/images/asset-89202cd618b4.jpg",
+          "price": "$300.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Jewelled Fruit Cake",
+          "image": "/images/asset-0cb695343043.jpg",
+          "hoverImage": "/images/asset-0cb695343043.jpg",
+          "price": "$359.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Hugs & Kisses Cake",
+          "image": "/images/asset-9fd3ea2b6ff5.jpg",
+          "hoverImage": "/images/asset-9fd3ea2b6ff5.jpg",
+          "price": "$479.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        }
+      ]
+    },
+    {
+      "id": "dT_tab-4-butter-scotch",
+      "label": "Butter Scotch",
+      "products": [
+        {
+          "title": "Chocolate Cup Cake (Copy)",
+          "image": "/images/asset-d9631b449f79.jpg",
+          "hoverImage": "/images/asset-d9631b449f79.jpg",
+          "price": "$289.00",
+          "salePrice": null,
+          "wasPrice": null,
+          "onSale": false
+        },
+        {
+          "title": "Linda Cake",
+          "image": "/images/asset-eeade74a53a2.jpg",
+          "hoverImage": "/images/asset-a72aebcefee2.jpg",
+          "price": "$598.00",
+          "salePrice": "$600.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Party Time Cake",
+          "image": "/images/asset-7f427f6d28ab.jpg",
+          "hoverImage": "/images/asset-e6854f9f0ca8.jpg",
+          "price": "$300.00",
+          "salePrice": "$351.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Love Romantic Cake",
+          "image": "/images/asset-66a73f02717e.jpg",
+          "hoverImage": "/images/asset-66a73f02717e.jpg",
+          "price": "$300.00",
+          "salePrice": "$405.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Party Chocks",
+          "image": "/images/asset-033fa5b203f7.jpg",
+          "hoverImage": "/images/asset-033fa5b203f7.jpg",
+          "price": "$362.00",
+          "salePrice": "$375.00",
+          "wasPrice": null,
+          "onSale": true
+        },
+        {
+          "title": "Party Celebration Cake",
+          "image": "/images/asset-776ba5345387.jpg",
+          "hoverImage": "/images/asset-56d75bef3ac0.jpg",
+          "price": "$300.00",
+          "salePrice": "$375.00",
+          "wasPrice": null,
+          "onSale": true
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "image": "/images/asset-02b339db92f3.jpg",
+      "sub": "Birthday Cakes",
+      "subColor": "#ffffff",
+      "heading": "SPECIAL OFFERS",
+      "headingColor": "#e23544",
+      "offer": "70% OFF",
+      "offerColor": "#e0d300",
+      "button": "Shop Now"
+    },
+    {
+      "image": "/images/asset-fcc1ae3fa956.jpg",
+      "sub": "Eggless Cakes",
+      "subColor": "#ffffff",
+      "heading": "EXCLUSIVE OFFERS",
+      "headingColor": "#ff9662",
+      "offer": "50% OFF",
+      "offerColor": "#ffe450",
+      "button": "Shop Now"
+    },
+    {
+      "image": "/images/asset-87d96e7e9cd5.jpg",
+      "sub": "Fruit Cakes",
+      "subColor": "#ffffff",
+      "heading": "X-MASS OFFERS",
+      "headingColor": "#fcce7b",
+      "offer": "60 % OFF",
+      "offerColor": "#e0d300",
+      "button": "Shop Now"
+    },
+    {
+      "image": "/images/asset-02b339db92f3.jpg",
+      "sub": "Birthday Cakes",
+      "subColor": "#ffffff",
+      "heading": "SPECIAL OFFERS",
+      "headingColor": "#e23544",
+      "offer": "70% OFF",
+      "offerColor": "#e0d300",
+      "button": "Shop Now"
+    },
+    {
+      "image": "/images/asset-fcc1ae3fa956.jpg",
+      "sub": "Eggless Cakes",
+      "subColor": "#ffffff",
+      "heading": "EXCLUSIVE OFFERS",
+      "headingColor": "#ff9662",
+      "offer": "50% OFF",
+      "offerColor": "#ffe450",
+      "button": "Shop Now"
+    }
+  ],
+  "menuHeading": {
+    "sub": "Cakes & Bakes",
+    "main": "Feel the Taste"
+  },
+  "menuCards": [
+    {
+      "title": "Dry Fruit Cake",
+      "desc": "Blandit libero volutpat sed cras ornare arcu dui. Enim tortor at auctor urna nunc id. Arcu odio ut sem nulla pharetra",
+      "image": "/images/asset-a8becf46c5ff.jpg"
+    },
+    {
+      "title": "Creamy Cup Cake",
+      "desc": "Turpis egestas maecenas pharetra convallis posuere. Condimentum vitae sapien pellentesque habitant morbi trist",
+      "image": "/images/asset-3b36d6817bd6.jpg"
+    },
+    {
+      "title": "Fruit Cake",
+      "desc": "Ullamcorper dignissim cras tincidunt lobortis. Ipsum dolor sit amet consectetur adipiscing elit. Nisl vel pretiumcu",
+      "image": "/images/asset-ec462fbe9182.jpg"
+    }
+  ],
+  "menuLogo": "/images/asset-0b375c14d09f.png",
+  "blogHeading": {
+    "sub": "New Arrival",
+    "main": "From the Blog"
+  },
+  "blogPosts": [
+    {
+      "image": "/images/asset-3fbff54de38d.jpg",
+      "title": "Sweet chocolate cake",
+      "date": "August 17, 2018",
+      "excerpt": "by Ram M"
+    },
+    {
+      "image": "/images/asset-4f8f27aa4dab.jpg",
+      "title": "Creamy fruit cake",
+      "date": "August 17, 2018",
+      "excerpt": "by Ram M"
+    },
+    {
+      "image": "/images/asset-556783b9c30f.jpg",
+      "title": "Multi taste cup cake",
+      "date": "August 17, 2018",
+      "excerpt": "by Ram M"
+    }
+  ],
+  "faqHeading": {
+    "sub": "Best solution",
+    "main": "Frequently Asked"
+  },
+  "faqs": [
+    {
+      "q": "What is a Payment Gateway?",
+      "a": "Lorem ipsum dolor sit amet, tritani prompta his eu, numquam fuisset recusabo ne mel. Ad has forensibus suscipiantur, in pro nisl rationibus eloquentiam. Omnes iriure petentium sed et, ne esse commodo invidunt eos. Pri electram mnesarchum no."
+    },
+    {
+      "q": "Can I Accept Forgien Currency?",
+      "a": "Lus meliore iracundia at. Vel at vidisse intellegat. Eam sumo primis civibus ex, eam et novum harum iudicabit. Agam erat feugait pro et, no eum suas saepe efficiendi. Facete diceret ex sea, oratio virtute percipit eum id. Et detracto democritum."
+    },
+    {
+      "q": "What if the Credit Card is Hotlisted?",
+      "a": "Ne tempor debitis mediocrem ius, assum integre habemus mei cu, eum ei alia causae. Nonumy vidisse petentium vix ei, quas necessitatibus te eam, nec et dolorum laoreet comprehensam. Clita urbanitas qui ne, pro id tamquam platonem. Mei unum periculis."
+    }
+  ],
+  "faqImage": "/images/asset-a05303d4dcae.jpg",
+  "pricingHeading": {
+    "sub": "Amazing Taste",
+    "main": "Menu Items"
+  },
+  "pricingImage": "/images/asset-762d57f1b5c3.png",
+  "pricingItems": [
+    {
+      "title": "Creamy Chocolate Cake",
+      "desc": "Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Maecenas nec"
+    },
+    {
+      "title": "Jelly Soft Cake",
+      "desc": "Nullam quis ante maecenas nec. Donec vitae sapien ut libero venenatis faucibus"
+    },
+    {
+      "title": "Creamy White Forest",
+      "desc": "Quam quisque id diam vel. Suspendisse in est ante in nibh mauris cursus mattis"
+    },
+    {
+      "title": "Grand Celebration Cake",
+      "desc": "Ultrices vitae auctor eu augue. Viverra adipiscing at in tellus integer feugiat scelerisque"
+    },
+    {
+      "title": "Fruit Cherry Cake",
+      "desc": "Vitae tempus quam pellentesque nec nam aliquam sem. Ac tincidunt vita"
+    },
+    {
+      "title": "Tasty Black Forest",
+      "desc": "Ultricies integer quis auctor elit sed vulputate mi. Urna et pharetra pharetra massa mas"
+    }
+  ],
+  "brandLogos": [
+    "/images/asset-0da24c037ffc.png",
+    "/images/asset-21218dd7a92f.png",
+    "/images/asset-2c59924778da.png",
+    "/images/asset-18fdc6976a6a.png",
+    "/images/asset-6d1a196b8425.png",
+    "/images/asset-307aea5f8bcd.png",
+    "/images/asset-f2fd712def30.png",
+    "/images/asset-0736d7281e09.png"
+  ],
+  "dealBanner": {
+    "image": "/images/asset-c1126f203dbe.jpg",
+    "heading": "Sweet for Celebration",
+    "sub": "Welcome to Cakes & Bakes",
+    "button": "Shop Now"
+  }
+}

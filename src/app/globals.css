@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    line-height: 1.8;
+    /* Site-wide faint cake-doodle pattern, fixed and covering the viewport. */
+    background-color: #ffffff;
+    background-image: url("/images/bg-pattern.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading text-ink;
+    line-height: 1.5;
+  }
+}
+
+@layer components {
+  /* Container matching the theme's 1400px max width + 15px gutters. */
+  .theme-container {
+    @apply mx-auto w-full max-w-container px-4;
+  }
+
+  /* DT button: white pill, 2px yellow border, pink fill on hover. */
+  .btn-theme {
+    @apply inline-flex items-center justify-center rounded-btn border-2 border-accent
+      bg-white px-7 py-2.5 font-body text-sm font-medium text-ink transition-colors
+      duration-300 hover:border-brand hover:bg-brand hover:text-white;
+  }
+}
